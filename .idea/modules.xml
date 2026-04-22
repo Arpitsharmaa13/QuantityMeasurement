@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/QtMeasurement.java/QtMeasurement.java.iml" filepath="$PROJECT_DIR$/QtMeasurement.java/QtMeasurement.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/QuantityMeasurement.iml" filepath="$PROJECT_DIR$/.idea/QuantityMeasurement.iml" />
     </modules>
   </component>
